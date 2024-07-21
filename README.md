@@ -1,4 +1,4 @@
-![Imagem do projeto](src/assets/projeto.png)
+![Imagem do projeto](public/images/projeto.png)
 
 # Projeto Coffee Delivery | Rocketseat
 
@@ -6,7 +6,7 @@ Neste projeto, desenvolvi um e-commerce de café, onde implementei funcionalidad
 
 ### Veja o projeto online
 
-🚀 [Link do projeto online]()
+🚀 [Link do projeto online](https://react-coffe-delivery-rocketseat.vercel.app/)
 
 ### Tecnologias Utilizadas
 
@@ -37,7 +37,7 @@ Neste projeto, desenvolvi um e-commerce de café, onde implementei funcionalidad
 1. Clone o repositório:
 
    ```bash
-   git clone
+   git clone https://github.com/fabiocasadossites/react-coffeDelivery-rocketseat.git
    ```
 
 2. Navegue até o diretório do projeto:
